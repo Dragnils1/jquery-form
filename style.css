@@ -1,0 +1,12 @@
+#phone-error {
+    color: red;
+}
+
+.phone-field {
+    max-width: 90%;
+    margin: 10px 5%;
+}
+
+.form-request {
+    text-align: center;
+}
